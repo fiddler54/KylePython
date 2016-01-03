@@ -1,5 +1,6 @@
 #This is the Collatz Sequence.
 #This is commonly known as "the simplest impossible math problem."
+#Authored by Kyle Z
 
 def collatz(numb):
     if numb % 2 == 0:
